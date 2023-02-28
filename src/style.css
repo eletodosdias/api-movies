@@ -1,0 +1,52 @@
+*{
+  margin: 0;
+  padding:0;
+  font-family: 'Secular One', sans-serif;
+
+}
+
+h1{
+  margin: 25px 0;
+}
+hr{
+  margin: 40px;
+}
+h2{
+  padding: 30px 0;
+}
+
+.wrapper{
+  text-align: center;
+  margin: 10px 
+}
+input{
+  width:30%;
+}
+
+button{
+  color: white;
+  background-color: black;
+  width: 65px;
+  margin: 0 ;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: stretch;
+  
+}
+
+.container-images div {
+  width: 18%;
+}
+
+.card{
+  margin: 5px;
+  padding: 3px;
+  width: 30%;
+  background-color: black;
+  color: white;
+  border-radius: 8px;
+}
